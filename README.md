@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning Data Structure
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me @No
+- 📫 How to reach me chandelmayank2001@gmail.com
 
 <!---
 Mayankhp24/Mayankhp24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
